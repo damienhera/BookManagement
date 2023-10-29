@@ -1,0 +1,8 @@
+War Horse,William Heinemann Ltd.,Michael Morpurgo,1982
+Kensuke's Kingdom,Egmont UK,Michael Morpurgo,1999
+Why the Whales Came, Scholastic Corporation,Michael Morpurgo,1985 
+The Hobbit,George Allen & Unwin,J. R. R. Tolkien,11/09/1937
+The Fellowship of the Ring,George Allen & Unwin,J. R. R. Tolkien,29/07/1954
+The Two Towers,George Allen & Unwin,J. R. R. Tolkien,11/11/1954
+
+

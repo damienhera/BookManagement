@@ -1,0 +1,7 @@
+C:\Users\damie\Desktop\BookSystem\BookSystem\bin\Debug\BookSystem.exe.config
+C:\Users\damie\Desktop\BookSystem\BookSystem\bin\Debug\BookSystem.exe
+C:\Users\damie\Desktop\BookSystem\BookSystem\bin\Debug\BookSystem.pdb
+C:\Users\damie\Desktop\BookSystem\BookSystem\obj\Debug\BookSystem.csproj.AssemblyReference.cache
+C:\Users\damie\Desktop\BookSystem\BookSystem\obj\Debug\BookSystem.csproj.CoreCompileInputs.cache
+C:\Users\damie\Desktop\BookSystem\BookSystem\obj\Debug\BookSystem.exe
+C:\Users\damie\Desktop\BookSystem\BookSystem\obj\Debug\BookSystem.pdb
